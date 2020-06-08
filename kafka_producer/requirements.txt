@@ -1,0 +1,3 @@
+Faker
+kafka-python
+syslog-rfc5424-parser

@@ -1,0 +1,4 @@
+Faker~=4.1.0
+kafka-python
+pyspark~=2.4.6
+syslog-rfc5424-parser
